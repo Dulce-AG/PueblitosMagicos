@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>Definición de Marcos</TITLE>
+</HEAD>
+<FRAMESET COLS=20%,80%>
+<FRAME SRC=Índice.html NAME="índice" NORESIZE>
+<FRAME SRC=Fondolnicial.html NAME="Principal" SCROLLING=YES>
+</FRAMESET>
+</HTML>
